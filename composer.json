@@ -1,0 +1,20 @@
+{
+    "name": "kalani/table-schema-collector",
+    "description": "Laravel 4 package to collect schema details from a table into an array",
+    "authors": [
+        {
+            "name": "Joel Hatch",
+            "email": "joel@kalani.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "4.0.x"
+    },
+    "autoload": {
+        "psr-0": {
+            "Kalani\\TableSchemaCollector": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
